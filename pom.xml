@@ -87,6 +87,15 @@
         <version>3.0.1</version>
       </extension>
     </extensions>
+    <pluginManagement>
+      <plugins>
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-archetype-plugin</artifactId>
+          <version>2.4</version>
+        </plugin>
+      </plugins>
+    </pluginManagement>
   </build>
   <!-- More Project Information -->
   <name>maven-archetype-apigee-proxy</name>
@@ -100,26 +109,26 @@
       <comments>A business-friendly OSS license</comments>
     </license>
   </licenses>
-  <organization>
+<!--   <organization>
     <name>Aman Kumawat</name>
     <url>http://amankumawat.me</url>
-  </organization>
+  </organization> -->
   <developers>
     <developer>
       <id>KumawatAman</id>
       <name>Aman Kumawat</name>
-      <email>aman@example.com</email>
+      <email>aman.kumawat@neosalpha.com</email>
       <url>https://github.com/KumawatAman/maven-archetype-apigee-proxy</url>
-      <organization>KumawatAman</organization>
-      <organizationUrl>http://amankumawat.me</organizationUrl>
-      <roles>
+<!--       <organization>neosalpha</organization> -->
+<!--       <organizationUrl>http://amankumawat.me</organizationUrl> -->
+<!--       <roles>
         <role>architect</role>
         <role>developer</role>
-      </roles>
-      <timezone>Europe/Amsterdam</timezone>
+      </roles> -->
+<!--       <timezone>Europe/Amsterdam</timezone>
       <properties>
         <picUrl>https://en.gravatar.com/userimage/1234567/abcdefg1234567.png</picUrl>
-      </properties>
+      </properties> -->
     </developer>
   </developers>
   <scm>
