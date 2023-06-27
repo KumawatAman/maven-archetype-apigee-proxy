@@ -129,8 +129,8 @@
       <properties>
         <picUrl>https://en.gravatar.com/userimage/1234567/abcdefg1234567.png</picUrl>
       </properties> -->
-    </developer>
-  </developers> -->
+<!--     </developer> -->
+<!--   </developers> --> -->
 <!--   <scm>
     <connection>scm:git:https://github.com/KumawatAman/maven-archetype-apigee-proxy.git</connection>
     <developerConnection>scm:git:https://github.com/KumawatAman/maven-archetype-apigee-proxy.git</developerConnection>
