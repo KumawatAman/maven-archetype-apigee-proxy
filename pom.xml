@@ -113,7 +113,7 @@
     <name>Aman Kumawat</name>
     <url>http://amankumawat.me</url>
   </organization> -->
-  <developers>
+<!--   <developers>
     <developer>
       <id>KumawatAman</id>
       <name>Aman Kumawat</name>
@@ -130,11 +130,11 @@
         <picUrl>https://en.gravatar.com/userimage/1234567/abcdefg1234567.png</picUrl>
       </properties> -->
     </developer>
-  </developers>
-  <scm>
+  </developers> -->
+<!--   <scm>
     <connection>scm:git:https://github.com/KumawatAman/maven-archetype-apigee-proxy.git</connection>
     <developerConnection>scm:git:https://github.com/KumawatAman/maven-archetype-apigee-proxy.git</developerConnection>
     <tag>master</tag>
     <url>https://github.com/KumawatAman/maven-archetype-apigee-proxy</url>
-  </scm>
+  </scm> -->
 </project>
